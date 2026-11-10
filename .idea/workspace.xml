@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dab4adf4-1afe-4185-b6f3-a61102a47085" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/H!/Desktop/GoMyCode" value="3Kdj7jfyqsT3tutEAZGHhyZCPvv" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Peter_trial.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.00006679038704" />
+      <entry key="MS500" value="1.146220157185732" />
+      <entry key="S2" value="1.6866097936757527" />
+      <entry key="S5" value="2.175827976773876" />
+      <entry key="S10" value="2.6295757944763167" />
+      <entry key="S30" value="4.346191461084384" />
+      <entry key="S60" value="6.487852521748882" />
+      <entry key="M2" value="10.088400211448079" />
+      <entry key="M5" value="19.69300441413916" />
+      <entry key="M10" value="34.48253181356029" />
+      <entry key="M15" value="46.348442365094584" />
+      <entry key="M30" value="67.5328895197332" />
+      <entry key="H1" value="84.37289878679144" />
+      <entry key="H2" value="95.16656480845597" />
+      <entry key="H4" value="101.30276010901261" />
+      <entry key="D1" value="114.27005022365135" />
+      <entry key="W1" value="1094.0558725445715" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.7656763312847974E-136" />
+      <entry key="S2" value="1.1527304723202952E-34" />
+      <entry key="S5" value="2.6588333010509265E-14" />
+      <entry key="S10" value="1.6305929292901288E-7" />
+      <entry key="S30" value="0.005463324254328266" />
+      <entry key="S60" value="0.07423978874218636" />
+      <entry key="M2" value="0.2899406739536411" />
+      <entry key="M5" value="0.8042999174428407" />
+      <entry key="M10" value="1.3166641934375702" />
+      <entry key="M15" value="1.6385743682430518" />
+      <entry key="M30" value="2.1429568917649653" />
+      <entry key="H1" value="2.511182235801855" />
+      <entry key="H2" value="2.7377709406111075" />
+      <entry key="H4" value="2.8640282978538143" />
+      <entry key="D1" value="2.986127266260294" />
+      <entry key="W1" value="18.706369893040208" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.33764805147946E-5" />
+      <entry key="MS500" value="0.1529457104213766" />
+      <entry key="S2" value="0.7891787209805622" />
+      <entry key="S5" value="1.5660735979318963" />
+      <entry key="S10" value="2.234044685513118" />
+      <entry key="S30" value="4.137871437356231" />
+      <entry key="S60" value="6.410545757551429" />
+      <entry key="M2" value="10.268380773871373" />
+      <entry key="M5" value="20.422382296126017" />
+      <entry key="M10" value="35.73949963239115" />
+      <entry key="M15" value="47.93457550655368" />
+      <entry key="M30" value="69.63759144582853" />
+      <entry key="H1" value="86.8599264719025" />
+      <entry key="H2" value="97.89060568013467" />
+      <entry key="H4" value="104.15944753018078" />
+      <entry key="D1" value="117.2547855520103" />
+      <entry key="W1" value="1112.7603299230645" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IepT4ZLLWBDN3wf4qBcBj1owwO" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bank_dataset.executor": "Run",
+    "Python.OOP.executor": "Run",
+    "Python.Peter_trial.executor": "Run",
+    "Python.Tanzania_tourism.executor": "Run",
+    "Python.class3_numerical.executor": "Run",
+    "Python.data-structure.executor": "Run",
+    "Python.data_exploration.executor": "Run",
+    "Python.data_structure2.executor": "Run",
+    "Python.dataqueryApi.executor": "Run",
+    "Python.fileshandling.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.independence.executor": "Run",
+    "Python.loop.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mini_calculator.executor": "Run",
+    "Python.mini_calculator_fn.executor": "Run",
+    "Python.numpy.executor": "Run",
+    "Python.pandasfiles.executor": "Run",
+    "Python.premierleaguescraping.executor": "Run",
+    "Python.python-basics.executor": "Run",
+    "Python.webscraping.executor": "Run",
+    "Python.webscraping2.executor": "Run",
+    "Python.ydata_profile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/H!/Desktop/GoMyCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Peter_trial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoMyCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Peter_trial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GoMyCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Peter_trial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab4adf4-1afe-4185-b6f3-a61102a47085" name="Changes" comment="" />
+      <created>1788134892597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788134892597</updated>
+      <workItem from="1788134893726" duration="10721000" />
+      <workItem from="1788273494247" duration="1432000" />
+      <workItem from="1788860922656" duration="21969000" />
+      <workItem from="1789463097718" duration="18852000" />
+      <workItem from="1790377352314" duration="497000" />
+      <workItem from="1790377869319" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-basics.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class3_numerical.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Exploration/ydata_profile.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GoMyCode$mini_calculator.coverage" NAME="mini_calculator Coverage Results" MODIFIED="1788956108583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$python_basics.coverage" NAME="python-basics Coverage Results" MODIFIED="1788947852654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$main.coverage" NAME="main Coverage Results" MODIFIED="1789465515424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$Peter_trial.coverage" NAME="Peter_trial Coverage Results" MODIFIED="1788206487817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$mini_calculator_fn.coverage" NAME="mini_calculator_fn Coverage Results" MODIFIED="1789559140126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$data_structure.coverage" NAME="data-structure Coverage Results" MODIFIED="1788951613391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$loop.coverage" NAME="loop Coverage Results" MODIFIED="1788949668362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoMyCode$functions.coverage" NAME="functions Coverage Results" MODIFIED="1789473354413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

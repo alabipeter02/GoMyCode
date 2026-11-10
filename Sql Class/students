@@ -1,0 +1,5 @@
+StudentID,FirstName,LastName,Gender,DateOfBirth,Email,Phone
+1,John,Doe,Male,2003-05-12,john@example.com,08012345678
+2,Mary,Smith,Female,2004-08-20,mary@example.com,08023456789
+3,David,Johnson,Male,2002-11-15,david@example.com,08034567890
+4,Sarah,Williams,Female,2003-03-25,sarah@example.com,08045678901

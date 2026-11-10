@@ -1,0 +1,3 @@
+Hello, My name is Ayo.
+I am a Data science student in GoMyCode.
+I am interested in machine learning and artificial intelligence.
